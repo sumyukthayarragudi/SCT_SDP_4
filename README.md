@@ -1,4 +1,4 @@
-# Ecommerce Web Scraper
+# Product Web Scraper
 
 ## About
 
